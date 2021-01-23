@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/dsiberia9s/M5Stack_GET_Requset_via_Proxy/master/screenshot.png)
+![](https://raw.githubusercontent.com/dsiberia9s/M5Stack_GET_Requset_via_Proxy/master/photo.jpg)
 
 **[по-русски]**
 
