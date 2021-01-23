@@ -4,7 +4,7 @@
 const char* ssid = "";
 const char* password = "";
 
-IPAddress proxyIP(176,9,119,170);
+IPAddress proxyIP(0, 0, 0, 0);
 int proxyPort = 8080;
 
 String proxyGET(IPAddress ip, int port, String url, bool header = false, unsigned long timeout = 10000) {
